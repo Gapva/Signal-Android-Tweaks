@@ -1,3 +1,6 @@
+# This Fork
+i created this fork to make basic tweaks to the Signal-Android repo without actually making any PRs to their repo. that's about it
+
 # Signal Android
 
 Signal is a simple, powerful, and secure messenger.
